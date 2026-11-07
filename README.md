@@ -17,7 +17,7 @@ BSc Hons in Applied Mathematics and MEng Candidate in Industrial Engineering (Lo
 
 ### 🔬 Highlighted Production Frameworks
 
-#### 🚛 [Cold-Chain Logistics Transport Intelligence Dashboard](https://github.com)
+#### 🚛 https://cold-chain-api-xsceu8pzmbemnpx4kiqd9t.streamlit.app/
 A decoupled, Dockerized microservice architecture built to monitor temperature-controlled logistics infrastructure and evaluate operational risk exposure.
 *   **Engineered:** A containerized FastAPI backend on Render feeding an interactive multi-page Streamlit client, utilizing Supabase PostgreSQL for time-series telemetry streams.
 *   **Optimized:** Integrated a two-stage machine learning pipeline (Cainiao-AI last-mile delay patterns + Random Forest risk classifiers) with deterministic physics heuristic floors and live Open-Meteo weather integration.
